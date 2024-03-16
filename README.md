@@ -80,8 +80,7 @@
     </div>
 </body>
 </html>
-
-        .container {
+  .container {
             max-width: 800px;
             margin: 20px auto;
             padding: 20px;
