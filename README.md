@@ -101,35 +101,4 @@
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Subashini Gnanavel</h1>
-        <p><strong>Age:</strong> 18</p>
-        <p><strong>Education:</strong><br>
-            - Currently pursuing B.E degree in Electronic and Communication Engineering at Velammal Engineering College.</p>
-        <p><strong>Workshops and Presentations:</strong><br>
-            - Attended multiple workshops to enhance knowledge and skills in the field.<br>
-            - Presented a paper at Anna University, showcasing expertise in a specific area.</p>
-        <p><strong>Technical Skills:</strong><br>
-            - Proficient in Microsoft tools such as Excel and PowerPoint.<br>
-            - Completed courses on "Introduction to Microsoft" and "Foundations of Cybersecurity."</p>
-        <p><strong>Language Proficiency:</strong><br>
-            - Successfully completed all Hindi Prachar Sabha exams, demonstrating fluency in Hindi.</p>
-        <p><strong>Project Experience:</strong><br>
-            - Led a mini project on energy conservation in large-scale commercial buildings, which earned the first prize.</p>
-        <p><strong>Title of Project:</strong> Optimizing energy efficiency with a smart energy conservation system</p>
-        <p><strong>Personal Qualities:</strong><br>
-            - Optimism<br>
-            - Open-mindedness<br>
-            - Creativity<br>
-            - Flexibility<br>
-            - Confidence<br>
-        </p>
-        <p>If you'd like to connect, you can reach me via:</p>
-        <ul>
-            <li>Email: <a href="mailto:gsubashini277@gmail.com">gsubashini277@gmail.com</a></li>
-            <li>LinkedIn: <a href="https://www.linkedin.com/in/subashini-gnanavel">Subashini Gnanavel</a></li>
-            <li>GitHub: <a href="https://github.com/gsubashini277">gsubashini277</a></li>
-        </ul>
-    </div>
-</body>
-</html>
+    
