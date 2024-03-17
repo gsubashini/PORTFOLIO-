@@ -1,0 +1,48 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #e8e1e1; /* Light gray background */
+    line-height: 1.9;
+}
+header {
+    background-image: url('Images.jpg'); /* Replace with your image path */
+    background-size: cover;
+    color: #0f0707; /* White text */
+    text-align: left; /* Align text to the left */
+    padding: 1rem 10%; /* Add left padding to slightly shift the text to the left */
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: underline;
+    color: #333333; /* Dark gray text */
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #ffffff; /* White background */
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Drop shadow */
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #333333; /* Dark gray background */
+    color: #ffffff; /* White text */
+}
